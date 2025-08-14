@@ -37,4 +37,4 @@ STEPS TO EXECUTE:
 
 ---
 
-Git Repository Link: https://github.com/tanishaupad/ssd-lab
+Git Repository Link: https://github.com/tanishaupad/ssd-lab/tree/main/LAB%202
